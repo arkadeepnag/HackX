@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: raah-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: starter          # free tier has no persistent disk and sleeps
+    healthCheckPath: /health
+    envVars:
+      - key: RAAH_DB_PATH
+        value: /data/raah.db
+      - key: WHATSAPP_VERIFY_TOKEN
+        generateValue: true
+      - key: WHATSAPP_APP_SECRET
+        sync: false        # set in the dashboard, never in git
+      - key: WHATSAPP_ACCESS_TOKEN
+        sync: false
+      - key: SOLAR_RESOURCE_MODE
+        value: real
+      - key: RAAH_API_KEY
+        generateValue: true
+      - key: RAAH_ALLOWED_ORIGINS
+        sync: false        # set to your frontend origin
+    disks:
+      - name: raah-data
+        mountPath: /data
+        sizeGB: 1

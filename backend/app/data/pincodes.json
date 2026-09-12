@@ -1,0 +1,125 @@
+{
+    "_note": "Seed set. Replace with the full India Post directory and point RAAH_PINCODE_PATH at it.",
+    "pincodes": {
+        "302015": {
+            "lat": 26.8505,
+            "lon": 75.8050,
+            "district": "Jaipur",
+            "state": "RAJASTHAN"
+        },
+        "302001": {
+            "lat": 26.9124,
+            "lon": 75.7873,
+            "district": "Jaipur",
+            "state": "RAJASTHAN"
+        },
+        "302022": {
+            "lat": 26.8467,
+            "lon": 75.8020,
+            "district": "Jaipur",
+            "state": "RAJASTHAN"
+        },
+        "303007": {
+            "lat": 26.9800,
+            "lon": 75.9300,
+            "district": "Jaipur",
+            "state": "RAJASTHAN"
+        },
+        "342001": {
+            "lat": 26.2389,
+            "lon": 73.0243,
+            "district": "Jodhpur",
+            "state": "RAJASTHAN"
+        },
+        "313001": {
+            "lat": 24.5854,
+            "lon": 73.7125,
+            "district": "Udaipur",
+            "state": "RAJASTHAN"
+        },
+        "110001": {
+            "lat": 28.6139,
+            "lon": 77.2090,
+            "district": "New Delhi",
+            "state": "DELHI"
+        },
+        "110020": {
+            "lat": 28.5355,
+            "lon": 77.2730,
+            "district": "South Delhi",
+            "state": "DELHI"
+        },
+        "400001": {
+            "lat": 18.9388,
+            "lon": 72.8354,
+            "district": "Mumbai",
+            "state": "MAHARASHTRA"
+        },
+        "411001": {
+            "lat": 18.5204,
+            "lon": 73.8567,
+            "district": "Pune",
+            "state": "MAHARASHTRA"
+        },
+        "380001": {
+            "lat": 23.0225,
+            "lon": 72.5714,
+            "district": "Ahmedabad",
+            "state": "GUJARAT"
+        },
+        "395003": {
+            "lat": 21.1702,
+            "lon": 72.8311,
+            "district": "Surat",
+            "state": "GUJARAT"
+        },
+        "600001": {
+            "lat": 13.0827,
+            "lon": 80.2707,
+            "district": "Chennai",
+            "state": "TAMIL NADU"
+        },
+        "641001": {
+            "lat": 11.0168,
+            "lon": 76.9558,
+            "district": "Coimbatore",
+            "state": "TAMIL NADU"
+        },
+        "560001": {
+            "lat": 12.9716,
+            "lon": 77.5946,
+            "district": "Bengaluru",
+            "state": "KARNATAKA"
+        },
+        "500001": {
+            "lat": 17.3850,
+            "lon": 78.4867,
+            "district": "Hyderabad",
+            "state": "TELANGANA"
+        },
+        "700001": {
+            "lat": 22.5726,
+            "lon": 88.3639,
+            "district": "Kolkata",
+            "state": "WEST BENGAL"
+        },
+        "141001": {
+            "lat": 30.9010,
+            "lon": 75.8573,
+            "district": "Ludhiana",
+            "state": "PUNJAB"
+        },
+        "201301": {
+            "lat": 28.5355,
+            "lon": 77.3910,
+            "district": "Gautam Buddha Nagar",
+            "state": "UTTAR PRADESH"
+        },
+        "226001": {
+            "lat": 26.8467,
+            "lon": 80.9462,
+            "district": "Lucknow",
+            "state": "UTTAR PRADESH"
+        }
+    }
+}

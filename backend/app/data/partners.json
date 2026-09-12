@@ -1,0 +1,62 @@
+{
+    "partners": [
+        {
+            "partner_id": "EPC-JAI-001",
+            "name": "Suryodaya Solar Solutions",
+            "pincode_prefixes": [
+                "3020",
+                "3021"
+            ],
+            "min_capacity_kw": 1,
+            "max_capacity_kw": 25,
+            "segments": [
+                "residential"
+            ],
+            "latitude": 26.9124,
+            "longitude": 75.7873,
+            "daily_lead_cap": 20,
+            "contact_sla_hours": 24,
+            "rating": 4.4
+        },
+        {
+            "partner_id": "EPC-JAI-002",
+            "name": "Marudhar Renewables",
+            "pincode_prefixes": [
+                "302",
+                "303"
+            ],
+            "min_capacity_kw": 20,
+            "max_capacity_kw": 500,
+            "segments": [
+                "commercial",
+                "industrial",
+                "institutional"
+            ],
+            "latitude": 26.8505,
+            "longitude": 75.8050,
+            "daily_lead_cap": 10,
+            "contact_sla_hours": 12,
+            "rating": 4.1
+        },
+        {
+            "partner_id": "EPC-NAT-009",
+            "name": "Bharat Rooftop Energy",
+            "pincode_prefixes": [
+                "3",
+                "4",
+                "1"
+            ],
+            "min_capacity_kw": 1,
+            "max_capacity_kw": 1000,
+            "segments": [
+                "residential",
+                "commercial",
+                "industrial",
+                "institutional"
+            ],
+            "daily_lead_cap": 40,
+            "contact_sla_hours": 48,
+            "rating": 3.2
+        }
+    ]
+}

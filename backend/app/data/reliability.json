@@ -1,0 +1,10 @@
+{
+    "default": {
+        "saifi": 10.0,
+        "saidi_hours_per_customer_year": 12.0,
+        "maifi": null,
+        "source": "MVP_CONFIG",
+        "spatial_level": "discom",
+        "confidence": 0.3
+    }
+}
